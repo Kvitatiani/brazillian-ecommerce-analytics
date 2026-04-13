@@ -1,9 +1,9 @@
 # Pandas Data Analysis - Brazilian E-Commerce Dataset
 
-A learning project for data analysis with Pandas using the Olist Brazilian E-Commerce dataset from Kaggle.
+data analysis with Pandas using the Olist Brazilian E-Commerce dataset from Kaggle.
 
 ## Purpose
-Practice Pandas fundamentals: data cleaning, joins, aggregations, and exploratory data analysis (EDA).
+Revisit Pandas fundamentals: data cleaning, joins, aggregations, and exploratory data analysis (EDA).
 
 ## Contents
 - `ecommerce_playground.ipynb` — Main analysis notebook with business questions and data exploration
@@ -15,7 +15,8 @@ Practice Pandas fundamentals: data cleaning, joins, aggregations, and explorator
 - Merging and joining dataframes
 - Groupby and aggregations
 - Time-series analysis
-- Visualization with Plotly
+- Visualization with Plotly, Seaborn 
+- Upsert with pandas
 
 ## How to Run
 1. Ensure Pandas and Jupyter are installed
